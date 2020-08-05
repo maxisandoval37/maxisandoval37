@@ -2,15 +2,11 @@
 
 ● <a href="https://www.youtube.com/watch?v=-AV4LfKtlTk&list=PLfwQfDfaNmvq1o1aQMyzdcimX8QOgPBHx&index=2&t=0s" rel="nofollow">YouTube (Mx Digital Academy)</a>
 
-● Linkedin
-  https://www.linkedin.com/in/maximiliano-sandoval
+● <a href="https://www.linkedin.com/in/maximiliano-sandoval" rel="nofollow">Linkedin</a>
 
-● Instagram (Mx Digital Academy)
-  https://www.instagram.com/mx.digital.academy/
+● <a href="https://www.instagram.com/mx.digital.academy/" rel="nofollow">Instagram (Mx Digital Academy)</a>
 
-● Instagram (Personal)
-  https://www.instagram.com/maxisandoval37/
-  
+● <a href="https://www.instagram.com/maxisandoval37/" rel="nofollow">Instagram (Personal)</a>
   
   
 
