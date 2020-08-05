@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-● YouTube (Mx Digital Academy)
-  https://www.youtube.com/watch?v=-AV4LfKtlTk&list=PLfwQfDfaNmvq1o1aQMyzdcimX8QOgPBHx&index=2&t=0s
+● <a href="https://www.youtube.com/watch?v=-AV4LfKtlTk&list=PLfwQfDfaNmvq1o1aQMyzdcimX8QOgPBHx&index=2&t=0s" rel="nofollow">YouTube (Mx Digital Academy)</a>
 
 ● Linkedin
   https://www.linkedin.com/in/maximiliano-sandoval
@@ -11,6 +10,8 @@
 
 ● Instagram (Personal)
   https://www.instagram.com/maxisandoval37/
+  
+  
   
 
 <!--
