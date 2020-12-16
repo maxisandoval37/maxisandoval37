@@ -7,8 +7,8 @@
 ● <a href="https://www.instagram.com/mx.digital.academy/" rel="nofollow">Instagram (Mx Digital Academy)</a>
 
 ● <a href="https://www.instagram.com/maxisandoval37/" rel="nofollow">Instagram (Personal)</a>
-  
-  
+
+![principal](https://k62.kn3.net/taringa/9/1/D/F/6/9/maxisandoval37/9B4.png)
 
 <!--
 **maxisandoval37/maxisandoval37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
