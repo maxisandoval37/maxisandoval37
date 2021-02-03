@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-● <a href="https://www.youtube.com/watch?v=-AV4LfKtlTk&list=PLfwQfDfaNmvq1o1aQMyzdcimX8QOgPBHx&index=2&t=0s" rel="nofollow">YouTube (Mx Digital Academy)</a>
+● <a href="https://www.maxisandoval37.github.io/webSite/" rel="nofollow">WebSite</a>
 
-● <a href="https://www.linkedin.com/in/maximiliano-sandoval" rel="nofollow">Linkedin</a>
+● <a href="https://www.youtube.com/watch?v=-AV4LfKtlTk&list=PLfwQfDfaNmvq1o1aQMyzdcimX8QOgPBHx&index=2&t=0s/" rel="nofollow">YouTube (Mx Digital Academy)</a>
+
+● <a href="https://www.linkedin.com/in/maximiliano-sandoval/" rel="nofollow">Linkedin</a>
 
 ● <a href="https://www.instagram.com/mx.digital.academy/" rel="nofollow">Instagram (Mx Digital Academy)</a>
 
