@@ -10,6 +10,11 @@
 
 ● <a href="https://www.instagram.com/maxisandoval37/" rel="nofollow">Instagram (Personal)</a>
 
+### Stats
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=maxisandoval37&theme=highcontrast&show_icons=true)]
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxisandoval37&theme=highcontrast&layout=compact)]
+
 ![principal](https://k62.kn3.net/taringa/9/1/D/F/6/9/maxisandoval37/9B4.png)
 
 <!--
