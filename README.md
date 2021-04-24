@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-● <a href="https://www.maxisandoval37.github.io/webSite/" rel="nofollow">WebSite</a>
+● <a href="https://maxisandoval37.github.io/webSite/" target="_blank">WebSite</a>
 
-● <a href="https://www.youtube.com/watch?v=-AV4LfKtlTk&list=PLfwQfDfaNmvq1o1aQMyzdcimX8QOgPBHx&index=2&t=0s/" rel="nofollow">YouTube (Mx Digital Academy)</a>
+● <a href="https://www.youtube.com/watch?v=-AV4LfKtlTk&list=PLfwQfDfaNmvq1o1aQMyzdcimX8QOgPBHx&index=2&t=0s/" target="_blank">YouTube (Mx Digital Academy)</a>
 
-● <a href="https://www.linkedin.com/in/maximiliano-sandoval/" rel="nofollow">Linkedin</a>
+● <a href="https://www.linkedin.com/in/maximiliano-sandoval/" target="_blank">Linkedin</a>
 
-● <a href="https://www.instagram.com/mx.digital.academy/" rel="nofollow">Instagram (Mx Digital Academy)</a>
+● <a href="https://www.instagram.com/mx.digital.academy/" target="_blank">Instagram (Mx Digital Academy)</a>
 
-● <a href="https://www.instagram.com/maxisandoval37/" rel="nofollow">Instagram (Personal)</a>
+● <a href="https://www.instagram.com/maxisandoval37/" target="_blank">Instagram (Personal)</a>
 
 ### Stats
 
