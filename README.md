@@ -1,11 +1,10 @@
 
-<br>
 <h1 align="center">Hi there 👋</h1>
   
 <p align="center">
 <br><br>
  <a href="https://maxisandoval37.github.io/webSite/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/web.png" />
+  <img src="https://img.icons8.com/fluent/48/000000/domain--v1.png" />
  </a>
   
  <a href="https://www.youtube.com/watch?v=-AV4LfKtlTk&list=PLfwQfDfaNmvq1o1aQMyzdcimX8QOgPBHx&index=2&t=0s/" target="_blank">
