@@ -27,12 +27,27 @@
  <a href="#" alt="Most used languages">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxisandoval37&theme=dracula&layout=compact" />
  </a>
+ <br><br>
 </p>
 
 <p align="center">
  <a href="#" alt="github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=maxisandoval37&theme=dracula&show_icons=true&layout=compact" />
  </a>
+</p>
+
+<h2 align="center">🛠 Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-05122A?style=for-the-badge&logo=hibernate" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FFF?style=for-the-badge&logo=git" />
 </p>
 
 <p align="center">
