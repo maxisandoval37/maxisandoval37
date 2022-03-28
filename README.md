@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋<br><br>I'm Maxi Sandoval :)</h1>
+<h1 align="center">Hi there 👋<br><br>I'm Maxi Sandoval :)<br>
+<img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/megaman.gif" />
+</h1>
 
 <p align="center">
 <br><br>
@@ -55,7 +57,7 @@
 <p align="center">
  <hr/>
   <a href="#" alt="principal">
-   <img src="https://k62.kn3.net/taringa/9/1/D/F/6/9/maxisandoval37/9B4.png" />
+   <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/banner.png" />
   </a>
  <hr/>
 </p>
