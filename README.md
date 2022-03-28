@@ -4,7 +4,8 @@
 
 <h2 align="center">
  <details align="center">
-  <summary align="center">Contact me!</summary>
+  <summary align="center">Contact me! ✔</summary>
+     <br>
      <p>• Buenos Aires - Argentina</p>
      <p>• <a href="mailto:maxisandoval98@gmail.com">maxisandoval98@gmail.com</a></p>
  </details>
