@@ -2,8 +2,17 @@
 <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/megaman.gif" />
 </h1>
 
+<h2 align="center">
+ <details align="center">
+  <summary align="center">Contact me!</summary>
+     <p>• Buenos Aires - Argentina</p>
+     <p>• <a href="mailto:maxisandoval98@gmail.com">maxisandoval98@gmail.com</a></p>
+ </details>
+</h2>
+
 <p align="center">
-<br><br>
+<br>
+
  <a href="https://maxisandoval37.github.io/webSite/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/domain--v1.png" />
  </a>
