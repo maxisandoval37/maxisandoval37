@@ -14,7 +14,7 @@
 <p align="center">
 <br>
 
- <a href="https://maxisandoval37.github.io/webSite/" target="_blank">
+ <a href="https://maxisandoval.dev.ar/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/domain--v1.png" />
  </a>
   
