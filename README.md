@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋<br><br>I'm Maxi Sandoval :)<br>
-<img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/megaman.gif" />
+<h1 align="center">Hi there 👋<br>I'm Maxi Sandoval :)<br>
+<img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/mario.gif" />
+<br>
 </h1>
 
 <h2 align="center">
@@ -50,9 +51,16 @@
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center">
     <a href="#" alt="Tech Stack">
+    <!--https://simpleicons.org-->
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-FFF?style=for-the-badge&logo=git" />
+     <img src="https://img.shields.io/badge/intellij%20idea-c97af3?style=for-the-badge&logo=intellijidea&logoColor=000000" />
+    <img src="https://img.shields.io/badge/Maven-ffc7fb?style=for-the-badge&logo=apache&logoColor=cc1c33" />
+    <img src="https://img.shields.io/badge/junit/Mockito-dd5149?style=for-the-badge&logo=junit5&logoColor=20a262" />
+    <img src="https://img.shields.io/badge/selenium-00b400?style=for-the-badge&logo=selenium&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring%20Security-white?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
+    <img src="https://img.shields.io/badge/sql-02569B?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Hibernate-05122A?style=for-the-badge&logo=hibernate" />
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -60,7 +68,9 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-FFF?style=for-the-badge&logo=git" />
+    <img src="https://img.shields.io/badge/react%20js-FFF?style=for-the-badge&logo=react&logoColor=cian" />
+    <img src="https://img.shields.io/badge/thymeleaf-7b7770?style=for-the-badge&logo=thymeleaf&logoColor=005f0f" />
+    <img src="https://img.shields.io/badge/Docker-abdbe3?style=for-the-badge&logo=docker&logoColor=cian" />
   </a>
 </p>
 
