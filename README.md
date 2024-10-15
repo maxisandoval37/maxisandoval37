@@ -52,7 +52,7 @@
 <p align="center">
     <a href="#" alt="Tech Stack">
     <!--https://simpleicons.org-->
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-FFF?style=for-the-badge&logo=git" />
      <img src="https://img.shields.io/badge/intellij%20idea-c97af3?style=for-the-badge&logo=intellijidea&logoColor=000000" />
     <img src="https://img.shields.io/badge/Maven-ffc7fb?style=for-the-badge&logo=apache&logoColor=cc1c33" />
