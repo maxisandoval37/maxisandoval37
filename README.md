@@ -71,6 +71,7 @@
     <img src="https://img.shields.io/badge/react%20js-FFF?style=for-the-badge&logo=react&logoColor=cian" />
     <img src="https://img.shields.io/badge/thymeleaf-7b7770?style=for-the-badge&logo=thymeleaf&logoColor=005f0f" />
     <img src="https://img.shields.io/badge/Docker-abdbe3?style=for-the-badge&logo=docker&logoColor=cian" />
+    <img src="https://img.shields.io/badge/jenkins-d33833?style=for-the-badge&logo=jenkins&logoColor=fff" />
   </a>
 </p>
 
