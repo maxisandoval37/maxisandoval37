@@ -78,7 +78,7 @@
 <p align="center">
  <hr/>
   <a href="#" alt="principal">
-   <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/banner-new.png" />
+   <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/refs/heads/master/images/banner-new.png" />
   </a>
  <hr/>
 </p>
