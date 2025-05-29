@@ -1,6 +1,7 @@
-<h1 align="center">Hi there 👋<br>I'm Maxi Sandoval :)<br>
-<img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/mario.gif" />
-<br>
+<h1 align="center">Hi there 👋<br>I'm Maxi Sandoval :)
+ <p></p>
+ <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/rounded_craig_comp.gif" />
+ <br>
 </h1>
 
 <h2 align="center">
