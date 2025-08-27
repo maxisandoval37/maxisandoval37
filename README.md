@@ -51,6 +51,11 @@
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center">
+ <a href="#" alt="github stats">
+  <img src="https://readme-typing-svg.demolab.com/?font=BlinkMacSystemFont&size=34&pause=1000&color=f0f6fc&width=435&lines=C%3A%5CUsers%5Cmaxisandoval37" />
+ </a>
+</p>
+<p align="center">
     <a href="#" alt="Tech Stack">
     <!--https://simpleicons.org-->
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
